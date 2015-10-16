@@ -7,7 +7,6 @@
     "Chart.StackedBar.js"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/nnnick/Chart.js",
   "ignore": [
     "**/.*",
     "node_modules",
