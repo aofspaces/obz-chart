@@ -1,7 +1,7 @@
 {
   "name": "obz-chart",
   "description": "chart&stackedbar repository for bower",
-  "versions": "1.0.0",
+  "version": "1.0.0",
   "main": [
     "Chart.js",
     "Chart.StackedBar.js"
