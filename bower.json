@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "main": [
     "Chart.js",
-    "Chart.StackedBar.js"
+    "Chart.StackedBar.js",
+    "angular-chart.js",
+    "angular-chart.css"
   ],
   "license": "MIT",
   "ignore": [
